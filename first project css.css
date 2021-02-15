@@ -1,0 +1,91 @@
+.responsive{max-width:100%;
+
+padding:.7em;}
+.image1{
+	background:url('food5.jpg');
+	height:100vh;
+	background-size:cover;
+	position:relative;
+}
+.second{
+	color:white;
+	position:absolute;
+	top:30%;
+	left:30%;
+	font-family: 'Ubuntu', sans-serif;
+}
+.second h1{text-align:center;
+font-size:2.4em;
+font-weight:bold;
+text-decoration:underline;
+}
+.second p{font-variant:small-caps;
+font-weight:bold;
+line-height:0.2}
+.second span{
+	margin-left:6em;
+	margin-bottom:.7em;
+	display:inline-block;
+}
+.formcode{text-align:center;}
+.formcode .postcode{
+	width:70%;
+	border-radius:1em;
+	padding:1em;
+	display:block;
+	border:none;
+	margin-bottom:.8em;
+	background-color:lightgray;
+	outline:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+.formcode button{
+	width:20%;
+	height:2.8em;
+	background-color:#00bab1;
+	font-weight:bold;
+	border-radius:.7em;
+}
+.productitems{
+	width:100%;
+	
+}
+.productitems{
+	float:left;
+width:22.5%;
+padding:10px;
+}
+img{height:42.5vh;
+
+padding:20px;}
+.productheading{text-align:center;}
+
+@media screen and (max-width:800px){
+	.productitems{
+		width:100%;
+		float:none;
+	}
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
