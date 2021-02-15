@@ -52,12 +52,13 @@ line-height:0.2}
 }
 .productitems{
 	float:left;
-width:22.5%;
-padding:10px;
+	width:22.5%;
+	padding:10px;
 }
-img{height:42.5vh;
 
+img{height:42.5vh;
 padding:20px;}
+
 .productheading{text-align:center;}
 
 @media screen and (max-width:800px){
